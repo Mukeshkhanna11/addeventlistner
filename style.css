@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+.menu-btn {
+  width: 50px;
+  height: 50%;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  display: flex;
+  margin-top: 10px;
+
+  padding: 5px;
+}
+.menu a {
+  width: 150px;
+  height: 20px;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  display: flex;
+  margin-top: 10px;
+}
